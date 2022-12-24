@@ -1,6 +1,6 @@
 ![customer-churn](https://s16353.pcdn.co/wp-content/uploads/2018/06/3causes_of_churn@2x-01-1024x393.png)
 
-title: Bank-Customer-Churn-Prediction
+Title: Bank-Customer-Churn-Prediction
 
 Programming language: Python
 
